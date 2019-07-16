@@ -2,9 +2,9 @@
 
 > 매일 최소 한 문제는 풀자.
 
-# [SWEA](C:\Users\student\Desktop\algorithms\SWEA)
+# [SWEA](./SWEA)
 
-# [백준](C:\Users\student\Desktop\algorithms\백준)
+# [백준](./백준)
 
-# [프로그래머스](C:\Users\student\Desktop\algorithms\프로그래머스)
+# [프로그래머스](./프로그래머스)
 

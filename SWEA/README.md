@@ -2,6 +2,6 @@
 
 ## 문제 풀이내역
 
-### [링크](C:\Users\student\Desktop\algorithms\SWEA)
+### [링크](./1000.py)
 
 swea

@@ -4,6 +4,6 @@
 
 ### 1000) 출력해라
 
-[링크](C:\Users\student\Desktop\algorithms\백준)
+[링크](./1000.py)
 
 이거 다시 풀면 좋음
